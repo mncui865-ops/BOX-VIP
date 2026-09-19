@@ -1,5 +1,5 @@
 # run.py - زرّك القديم بقى لحظي تلقائيا + فويس + مكالمات + رد (نسخة محمية)
-import main as FBI
+import run.py as FBI
 app = FBI.app
 db = FBI.db
 
